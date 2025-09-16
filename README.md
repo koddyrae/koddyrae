@@ -3,7 +3,7 @@
 I’m currently a student at Mount Royal University that is passionate about technology, programming, and learning new things.
 
 ## 🚦 Favorite Project
-One of my favorite projects was a **Machine Learning Traffic Detection** system. I trained a YOLOv9 model on brand new data I collected from City of Calgary traffic cameras—building the dataset, training the model, and analyzing results was a rewarding experience.
+One of my favorite projects was a **Machine Learning Traffic Detection** system (https://github.com/koddyrae/Traffic-Cam-Detection). I trained a YOLOv9 model on brand new data I collected from City of Calgary traffic cameras—building the dataset, training the model, and analyzing results was a rewarding experience.
 
 ## 💻 Skills Obtained During School
 - **Python**
