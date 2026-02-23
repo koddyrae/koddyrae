@@ -16,11 +16,8 @@ One of my favorite projects was a **Machine Learning Traffic Detection** system 
 
 ## 📚 Recent Work
 I’m currently exploring web development and backend programming through various assignments and projects, including:
+- [COMP4513 Simple Spotify API Project](https://github.com/koddyrae/COMP4513-assign1)
 - [PHP Practice Exercise 04](https://github.com/MRU-CSIS-3512-002-202504-LAB/php-lab-test-01-practice-ex-04-koddyrae)
-- [PHP Practice Exercise 03](https://github.com/MRU-CSIS-3512-002-202504-LAB/php-lab-test-01-practice-ex-03-koddyrae)
-- [PHP Practice Exercise 02](https://github.com/MRU-CSIS-3512-002-202504-LAB/php-lab-test-01-practice-ex-02-koddyrae)
-- [PHP Practice Exercise 01](https://github.com/MRU-CSIS-3512-002-202504-LAB/php-lab-test-01-practice-ex-01-koddyrae)
-- [PHP Lecture 02](https://github.com/MRU-CSIS-3512-002-202504-LEC/php-lec-02-koddyrae)
 
 ---
 
